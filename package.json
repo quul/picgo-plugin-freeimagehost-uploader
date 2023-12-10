@@ -1,5 +1,5 @@
 {
-  "name": "picgo-plugin-picgo-plugin-freeimagehost-uploader",
+  "name": "picgo-plugin-freeimagehost-uploader",
   "version": "1.0.0",
   "description": "A PicGo uploader for freeimage.host",
   "main": "dist/index.js",
@@ -18,7 +18,8 @@
   "keywords": [
     "picgo",
     "picgo-gui-plugin",
-    "picgo-plugin"
+    "picgo-plugin",
+    "freeimagehost"
   ],
   "author": "quul",
   "license": "MIT",
